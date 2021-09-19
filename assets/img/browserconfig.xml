@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<browserconfig>
+  <msapplication>
+    <tile>
+      <square70x70logo src="/avatar_of_Aleksey_Dolgikh_designed_by_Olya_Nayda-70.png"/>
+      <square150x150logo src="/avatar_of_Aleksey_Dolgikh_designed_by_Olya_Nayda-150.png"/>
+      <square310x310logo src="/avatar_of_Aleksey_Dolgikh_designed_by_Olya_Nayda-310.png"/>
+      <TileColor>#FFFFFF</TileColor>
+    </tile>
+  </msapplication>
+</browserconfig>
