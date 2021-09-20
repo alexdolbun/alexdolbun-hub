@@ -1,0 +1,21 @@
+{
+    "name": "C\u0336\u0344\u035b\u0314\u0301\u0306\u0333\u034d\u032c\u0330\u0329\u0328\u0348V\u0335\u035d\u0308\u033d\u0311\u0310\u0304\u035d\u030b\u0310\u032e\u033c\u032b\u032e\u033a\u0324\u0348\u0359O\u0334\u034b\u034c\u034e\u0326\u035a\u031e\u031c\u0319\u0353 Aleksei Dolgikh",
+    "short_name": "C\u0336\u0344\u035b\u0314\u0301\u0306\u0333\u034d\u032c\u0330\u0329\u0328\u0348V\u0335\u035d\u0308\u033d\u0311\u0310\u0304\u035d\u030b\u0310\u032e\u033c\u032b\u032e\u033a\u0324\u0348\u0359O\u0334\u034b\u034c\u034e\u0326\u035a\u031e\u031c\u0319\u0353 Aleksei Dolgikh",
+    "icons": [
+        {
+            "src": "/assets/img/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/img/android-chrome-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ff0000",
+    "background_color": "#ff0000",
+    "start_url": "https://alexdolbun.com",
+    "display": "standalone",
+    "orientation": "portrait"
+}
