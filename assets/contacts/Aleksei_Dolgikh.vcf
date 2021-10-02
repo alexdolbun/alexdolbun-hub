@@ -1,9 +1,11 @@
 BEGIN:VCARD
 VERSION:3.0
-PRODID:-//Apple Inc.//macOS 11.5.2//EN
+PRODID:-//Apple Inc.//macOS 11.6//EN
 N:Dolgikh;Aleksei;;;
 FN:Aleksei Dolgikh
+NICKNAME:alexdolbun
 ORG:UnicornWitnesses.com;
+TITLE:Glocal Digital product CVO\, ITIL evangelist
 EMAIL;type=INTERNET;type=HOME;type=pref:alexdolbun@icloud.com
 EMAIL;type=INTERNET;type=WORK:alexdollbun@gmail.com
 item1.EMAIL;type=INTERNET:alex.ex.dolgih@gmail.com
@@ -14,13 +16,23 @@ item2.X-ABLabel:armenia
 item3.TEL:+79952282060
 item3.X-ABLabel:iPad Pro
 TEL;type=CELL;type=VOICE:+7 (995) 1223083
-NOTE:Digital product CVO at nonprofit community oriented on social relevance  https://unicornwitnesses.com and 🔝 https://alexdolbun.com WFA teammate in digital product team who create workflow quality assurance include automation. OSS\, ITIL\, DevOps\, BDD\, CI/CD\, GIT\, Web\, Doc/Spec\, Requirements/Tasks\, Workflow\, Pipeline
+X-SOCIALPROFILE;type=twitter:http://twitter.com/alexdolbun
+X-SOCIALPROFILE;type=facebook:http://facebook.com/alexdolbun
+X-SOCIALPROFILE;type=linkedin:http://www.linkedin.com/in/alexdolbun
+NOTE:Digital product CVO at nonprofit community oriented on social relevance & ESG https://unicornwitnesses.com and healthcare & environment care ecosystem https://muteit.app  and 🔝 https://alexdolbun.com WFA teammate in digital product team who create workflow quality assurance include automation. OSS\, ITIL\, DevOps\, BDD\, CI/CD\, GIT\, Web\, Doc/Spec\, Requirements/Tasks\, Workflow\, Pipeline
 item4.URL;type=pref:https://alexdolbun.com
 item4.X-ABLabel:_$!<HomePage>!$_
-item5.URL:https://unicornwitnesses.com
-item5.X-ABLabel:_$!<Other>!$_
+item5.URL:https://muteit.app
+item5.X-ABLabel:Env- healthcare Ecosystem
+item6.URL:https://unicornwitnesses.com
+item6.X-ABLabel:Nonprofit community
+item7.URL:https://github.com/alexdolbun
+item7.X-ABLabel:GitHub
+item8.URL:https://www.crunchbase.com/person/aleksei-dolgikh-dca6
+item8.X-ABLabel:CrunchBase
 BDAY:1994-08-17
 IMPP;X-SERVICE-TYPE=Facebook;type=HOME;type=pref:xmpp:alexdolbun
+IMPP;X-SERVICE-TYPE=Skype;type=WORK:skype:jlexajj
 PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAAkACQAAD/4QB0RXhpZgAATU0AKgAA
  AAgABAEaAAUAAAABAAAAPgEbAAUAAAABAAAARgEoAAMAAAABAAIAAIdpAAQAAAABAAAATgAAAA
  AAAACQAAAAAQAAAJAAAAABAAKgAgAEAAAAAQAAA+SgAwAEAAAAAQAAA+QAAAAA/+0AOFBob3Rv
